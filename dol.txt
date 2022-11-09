@@ -1,0 +1,116 @@
+manage plugins-
+shiningpanda
+maven integration
+build pipeline
+html publisher
+python
+pyenv pipeline
+
+7. maven&ant-
+Manage jenkins-global tool- maven,ant,gradle
+Name install automatically 
+Python(till version python.exe), JDK add path
+Maven proj
+GitHub url
+Xml- clean compile packeage
+war building cp
+
+13. Masterslave
+Manage nodes and cloud
+New node- permanent
+Folderin c cp in remote root dir
+Label name
+Save
+Red pc on left
+Go to security
+TCP random
+Save
+Red pc
+Agent.jar download
+Copy both line
+Open cmd in download
+Paste in cmd
+Dashboar
+Nonpara files
+Restrict 
+Label name
+Save
+Build
+
+8. Pipeline
+Dashboard
+New item
+Pipeline proj
+Pipeline script
+Hello world right 
+Save
+Build
+
+9. pipeline
+GitHub fork
+New item
+Pipeline
+Pipeline SCM
+Scm-git
+Url
+Script 
+hello-world/Jenkinsfile
+
+10.webhook
+ngrok download
+Extract in folder
+Open cmd 
+ng tab http 8080
+Save forwarding till io
+Go to GitHub forked file
+Settings 
+Add Webhook
+Payload url paste /github-webhook/
+Content type- json
+Refresh
+Change code commit
+Jenkins build now pipeline file
+
+11. docker commands
+Docker version
+-Docker login
+-docker pull ubuntu
+-docker pull ubuntu:jammy
+-docker images -q
+-docker images -a
+-docker images -f “dangling=false”
+-docker images -f “dangling=true”
+-docker run ubuntu
+-docker ps
+-docker ps -a
+-docker run –name student -it ubuntu bash
+-docker ps
+-docker pause student
+-docker stop student
+-docker stats student
+-docker ps -a
+-docker inspect ubuntu
+-docker -rmi ubuntu
+-docker push ubuntu
+-docker history ubuntu
+
+12. docker img
+Reference exp 5 download and save in folder
+Make Html file add in same folder
+Open cmd in fold
+docker build -f filenameexp5 -t Parth_img
+docker run -it -p 8888:80 Parth_img
+Browser type localhost:8888
+
+3. gitpullpush
+Create folder open git bash
+Repository
+git clone url
+Make change to readme
+cd filename
+git pull origin
+Change in system
+git add .
+cd filename
+git commit - m "msg"
+git push origin
